@@ -1,11 +1,7 @@
-import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
-
 export default function Home() {
 	return (
 		<>
-			<h1>Sahaj-Pasal</h1>
+			<h1>head</h1>
 		</>
 	);
 }
